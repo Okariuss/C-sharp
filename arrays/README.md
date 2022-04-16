@@ -1,0 +1,1 @@
+# patika-csharp-dizi-kullanimi
